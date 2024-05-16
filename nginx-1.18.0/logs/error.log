@@ -2838,3 +2838,4 @@
 2024/03/09 18:59:48 [error] 21556#6988: *5 CreateFile() "D:\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2024/03/09 20:00:13 [alert] 22916#14080: worker process 24116 exited with code C0000142
 2024/03/09 20:00:13 [alert] 22916#14080: could not respawn worker
+2024/03/12 17:52:14 [emerg] 9096#20592: CreateFile() "D:\代码文件夹集\前端\nginx-1.18.0/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
